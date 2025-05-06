@@ -1,0 +1,7 @@
+$x value is : PHP5, $x type is : string
+$a[0] value is : PHP5, $a[0] type is : array
+$y value is :  5 eme version de PHP, $y type is : string
+$z value is : 50, $z type is : integer
+$x value is : PHP5 5 eme version de PHP, $x type is : string
+$y value is : 250, $y type is : integer
+$a[0] value is : MySQL, $a[0] type is : array

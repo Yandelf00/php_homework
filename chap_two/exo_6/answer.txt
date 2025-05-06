@@ -1,0 +1,3 @@
+x value is : 9E3 
+y value is : 7 
+z value is : 9000

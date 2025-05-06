@@ -1,0 +1,1 @@
+toutes les variables valent "PHP 5"

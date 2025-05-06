@@ -1,0 +1,2 @@
+Lire les valeurs des variables du script de l’exercice 2 à l’aide du
+tableau $GLOBALS
