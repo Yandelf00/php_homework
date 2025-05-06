@@ -1,0 +1,2 @@
+Rédiger une expression conditionnelle pour tester si un nombre
+est à la fois un multiple de 3 et de 5.

@@ -1,0 +1,3 @@
+Effectuer une suite de tirages de nombres aléatoires jusqu’à
+obtenir une suite composée d’un nombre pair suivi de deux
+nombres impairs.
